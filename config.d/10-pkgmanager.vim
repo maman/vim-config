@@ -6,9 +6,12 @@ endif
 
 call plug#begin('$HOME/.config/nvim/packages')
 
+Plug 'tpope/vim-sensible'
 Plug 'mhinz/vim-startify'
 Plug 'junegunn/vim-easy-align'
 Plug 'easymotion/vim-easymotion'
+Plug 'maman/tmuxline.vim'
+Plug 'christoomey/vim-tmux-navigator'
 Plug 'editorconfig/editorconfig-vim'
 Plug 'scrooloose/nerdtree'
 Plug 'jistr/vim-nerdtree-tabs'
@@ -19,6 +22,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'heavenshell/vim-jsdoc'
 Plug 'ryanoasis/vim-devicons'
+Plug 'tpope/vim-git'
 Plug 'tpope/vim-fugitive'
 Plug 'Raimondi/delimitMate'
 Plug 'scrooloose/syntastic'
