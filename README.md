@@ -17,7 +17,7 @@ $ ln -s ~/.config/nvim/init.vim ~/.vimrc # Optional, if you still use vim
 * [vim-plug](https://github.com/junegunn/vim-plug)
 * [vim-devicons](https://github.com/ryanoasis/vim-devicons)
 * [vim-airline](https://github.com/vim-airline/vim-airline)
-* [ctrl-space](https://github.com/vim-ctrlspace/vim-ctrlspace)
+* [ctrlP](https://github.com/ctrlpvim/ctrlp.vim)
 * an so on ...
 
 ## Dependencies
